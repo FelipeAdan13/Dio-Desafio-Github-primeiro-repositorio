@@ -1,4 +1,4 @@
-# Desafio de Projeto sonre git/github da Dio
+# Desafio de Projeto sobre git/github da Dio
 Repositorio criado para o desafio de projeto.
 
 ## Links úteis
